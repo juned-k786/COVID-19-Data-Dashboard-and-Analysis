@@ -1,4 +1,4 @@
-COVID-19 Dashboard 📊
+##  COVID-19 Dashboard 📊
 A comprehensive Tableau dashboard providing real-time insights, analysis, and visualizations of COVID-19 data.
 
 🌟 Features
@@ -21,7 +21,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/juned-k786/covid19-dashboard.git
+git clone https://github.com/juned-k786/COVID-19-Data-Dashboard-and-Analysis/tree/main.git
 Open the Tableau workbook file (.twb or .twbx) in Tableau Desktop.
 
 Data Source Configuration:
