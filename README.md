@@ -7,8 +7,9 @@ Interactive Visualizations: Drill down into the data with filters for dates, dem
 Trends Analysis: Track trends in confirmed cases, recoveries, and fatalities over time.
 Vaccination Data: Insights into vaccination progress worldwide.
 Dynamic Updates: Data updates automatically through integrations with live data sources.
-Copy code
-git clone https://github.com/juned-k786/COVID-19-Data-Dashboard-and-Analysis/tree/main.git
+
+``` git clone: https://github.com/juned-k786/COVID-19-Data-Dashboard-and-Analysis/tree/main.git ```
+
 Open the Tableau workbook file (.twb or .twbx) in Tableau Desktop.
 
 # Data Source Configuration:
